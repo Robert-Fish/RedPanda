@@ -1,0 +1,60 @@
+
+
+ .navbar-custom .navbar-nav > li > a {
+    color: white;
+}
+
+.navbar-custom .navbar-brand{
+    color: white;
+}
+.navbar-custom {
+  margin-bottom: 0;
+  border: none;
+  border-radius: 0px;
+  background-repeat: no-repeat;
+  color: white !important;
+  background-size: cover;
+
+  background: rgba(255,172,198,1);
+  background: -moz-linear-gradient(45deg, rgba(255,172,198,1) 0%, rgba(182,224,245,1) 100%);
+  background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(255,172,198,1)), color-stop(100%, rgba(182,224,245,1)));
+  background: -webkit-linear-gradient(45deg, rgba(255,172,198,1) 0%, rgba(182,224,245,1) 100%);
+  background: -o-linear-gradient(45deg, rgba(255,172,198,1) 0%, rgba(182,224,245,1) 100%);
+  background: -ms-linear-gradient(45deg, rgba(255,172,198,1) 0%, rgba(182,224,245,1) 100%);
+  background: linear-gradient(45deg, rgba(255,172,198,1) 0%, rgba(182,224,245,1) 100%);
+}
+
+.background-panda {
+    background-size: cover;
+    background: rgba(255,172,198,1);
+    background: -moz-linear-gradient(45deg, rgba(255,172,198,1) 0%, rgba(182,224,245,1) 100%);
+    background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(255,172,198,1)), color-stop(100%, rgba(182,224,245,1)));
+    background: -webkit-linear-gradient(45deg, rgba(255,172,198,1) 0%, rgba(182,224,245,1) 100%);
+    background: -o-linear-gradient(45deg, rgba(255,172,198,1) 0%, rgba(182,224,245,1) 100%);
+    background: -ms-linear-gradient(45deg, rgba(255,172,198,1) 0%, rgba(182,224,245,1) 100%);
+    background: linear-gradient(45deg, rgba(255,172,198,1) 0%, rgba(182,224,245,1) 100%);
+}
+
+.title {
+  text-align: center;
+  padding-bottom: 10px;
+  font-size: 5rem;
+}
+h1 {
+  font-family: "Lobster", cursive;
+  color: white;
+}
+
+.panel .panel-default .panel-body{
+    font-size:2.3rem;
+    text-align: center;
+    
+
+}
+
+.panel, .panel-default{
+    width: 100%;
+    justify-content: center;
+    font-family: 'Raleway', sans-serif;
+    line-height: 2;
+}
